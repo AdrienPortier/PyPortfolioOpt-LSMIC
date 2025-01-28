@@ -6,7 +6,7 @@ This project was carried out as part of the **LSM Investment Club** (LSMIC), ind
 
 The main objective of this project was to explore and implement portfolio optimization techniques using the **PyPortfolioOpt** library. After discovering this library during a DataCamp training, I presented a demonstration to the quant team, highlighting its practical application for optimizing portfolio allocations.
 
-The project was conducted alongside academic commitments and culminated in a final presentation to all club members, where the team voted on the most appropriate optimization method for reallocating portfolio weights.
+The project was conducted alongside academic commitments and culminated in a final presentation to all club members, where the club members voted on the most appropriate optimization method for reallocating portfolio weights.
 
 ## Objectives
 
