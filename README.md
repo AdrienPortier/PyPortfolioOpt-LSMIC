@@ -60,3 +60,11 @@ In addition to pure optimization, platform fees were integrated into the analysi
 1. Clone the repository:
    ```bash
    git clone https://github.com/AdrienPortier/PyPortfolioOpt-LSMIC.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Open and run the notebooks:
+   - `PyPortfolioOpt_Demo.ipynb` for an introduction to PyPortfolioOpt.
+   - `CDaR_Optimization.ipynb` for the CDaR-specific analysis.
+
