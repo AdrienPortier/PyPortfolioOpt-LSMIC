@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was carried out as part of the **LSM Investment Club** (LSMIC), independently, and presented to the **quant team**, which oversees the management of a portfolio exceeding €25,000.
+This project was carried out as part of the **LSM Investment Club** (LSMIC), independently, and presented to the **quantitative team**, which oversees the management of a portfolio exceeding €25,000.
 
 The main objective of this project was to explore and implement portfolio optimization techniques using the **PyPortfolioOpt** library. After discovering this library during a DataCamp training, I presented a demonstration to the quant team, highlighting its practical application for optimizing portfolio allocations.
 
