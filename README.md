@@ -1,5 +1,5 @@
 # PyPortfolioOpt-LSMIC
-
+Portfolio weights optimization for a 25.000€ portfolio using PyPortfolioOpt package in Python
 ## Introduction
 
 This project was carried out as part of the **LSM Investment Club** (LSMIC), independently, and presented to the **quantitative team**, which oversees the management of a portfolio exceeding €25,000.
